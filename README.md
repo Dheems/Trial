@@ -1,4 +1,4 @@
 # Trial
-First git repositor
+First git repository
 <br>
 Author - Dheems
